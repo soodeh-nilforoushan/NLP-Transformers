@@ -6,7 +6,7 @@ These projects show how we use different types of transformers with an example.
 2) Transformers are big and slow but computations can be done in parallel (unlike RNNs!)
 
 Possible Pre-training task:
-1- Causal LM(Autoregressive LM) (like GPT): it trains the model based on previous data point to predict the next data point.
+1- Causal LM(Autoregressive LM) (like GPT): it trains the model based on previous data points to predict the next data point.
 2 Masked LM (Autoencoding LM)(like BERT): it trains the mode of the model based on the past and future data points.
 
 
